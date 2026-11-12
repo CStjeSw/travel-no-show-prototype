@@ -1,6 +1,6 @@
 # No-show prevention for trip-planning calls
 
-A clickable concept prototype by Clara Stjernswärd. It shows how a travel company could cut no-shows for planning calls, where each call is booked days in advance with one named travel expert.
+A clickable concept prototype. It shows how a travel company could cut no-shows for planning calls, where each call is booked days in advance with one named travel expert.
 
 **Live demo:** https://cstjesw.github.io/travel-no-show-prototype/
 
